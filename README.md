@@ -47,7 +47,7 @@ This app helps users — especially in **Tier-2 and Tier-3 cities** — understa
 ## 👨‍💻 Author
 
 **Krishna Choubey**  
-[LinkedIn]((https://linkedin.com/in/krishna-choubey-896137272/) | [GitHub]((https://github.com/krishnauniq/) | [LeetCode](https://leetcode.com/u/krishna2345/)
+[LinkedIn](https://linkedin.com/in/krishna-choubey-896137272/) | [GitHub](https://github.com/krishnauniq/) | [LeetCode](https://leetcode.com/u/krishna2345/)
 
 ---
 
