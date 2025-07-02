@@ -68,7 +68,8 @@ st.title(" Air Quality Visualizer")
 city = st.text_input("Enter city name")
 
 if st.button("Get AQI Data"):
-    api_key = "127dd1ddbdaa876c5a9756fe4a47d8d0"
+    api_key = st.secrets["api_key"]
+
 
     #  Get coordinates
     geocode_url = f"http://api.openweathermap.org/geo/1.0/direct?q={city}&limit=1&appid={api_key}"
