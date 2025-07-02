@@ -1,11 +1,4 @@
-import streamlit as st
-import requests
-import matplotlib.pyplot as plt
 
-st.title(" Air Quality Visualizer")
-
-# # User input
-city = st.text_input("Enter city name", "Delhi")
 
 # # Fetch AQI data from OpenAQ API
 # if st.button("Get AQI Data"):
