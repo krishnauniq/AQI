@@ -38,12 +38,6 @@ This app helps users — especially in **Tier-2 and Tier-3 cities** — understa
 
 ---
 
-## 📸 Preview
-
-![AQI Visualizer Demo](https://via.placeholder.com/800x400.png?text=Add+your+screenshot+here)
-
----
-
 ## 👨‍💻 Author
 
 **Krishna Choubey**  
