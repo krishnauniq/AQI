@@ -28,7 +28,7 @@ A clean and easy-to-use web app built with **Streamlit** to visualize **real-tim
 
 ## 💡 Why This Matters
 
-This app helps users — especially in **Tier-2 and Tier-3 cities** — understand their air quality with actionable health advice. It can be used in hackathons, academic projects, and public awareness campaigns.
+This application empowers communities in Tier-2 and Tier-3 cities by providing real-time air quality insights along with personalized health recommendations, helping people make informed daily decisions for healthier living. By translating complex environmental data into easy-to-understand visuals and advice, it raises public awareness and encourages preventive actions. With support for sensor integration and AQI forecasting, the app aims to promote sustainable urban living and protect vulnerable groups such as children, the elderly, and those with respiratory conditions.
 
 ---
 
